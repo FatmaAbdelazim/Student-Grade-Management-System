@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1734833192 source:d:\iti_9\c\projectc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"student.h"
+
+1734833149 d:\iti_9\c\projectc\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1734829353 source:d:\iti_9\c\projectc\add,c.c
+	"student.h"
+
+1734830938 d:\iti_9\c\projectc\student.h
+	<stdio.h>
+	<stdlib.h>
+
+1734974069 source:d:\iti_9\c\projectc\displayallaverage.c
+	<conio.h>
+	"student.h"
+
+1734974316 source:d:\iti_9\c\projectc\displayallstudent.c
+	<conio.h>
+	"student.h"
+
+1734975129 source:d:\iti_9\c\projectc\displayallstudentfailed.c
+	<conio.h>
+	"student.h"
+
+1734974900 source:d:\iti_9\c\projectc\displayallstudentpassed.c
+	<conio.h>
+	"student.h"
+
+1734833387 source:d:\iti_9\c\projectc\displayhighestaverage.c
+	<conio.h>
+	"student.h"
+
+1734829351 source:d:\iti_9\c\projectc\update.c
+	"student.h"
+
+1734829472 source:d:\iti_9\c\projectc\add.c
+	"student.h"
+
+1734830455 source:d:\iti_9\c\projectc\calcaverage.c
+	"student.h"
+
+1734830453 source:d:\iti_9\c\projectc\calcgrade.c
+	"student.h"
+
+1734830455 source:d:\iti_9\c\projectc\exist.c
+	"student.h"
+
+1734830455 source:d:\iti_9\c\projectc\find.c
+	"student.h"
+
+1734830455 source:d:\iti_9\c\projectc\resizearray.c
+	"student.h"
+
+1734829472 source:e:\iti_9\c\projectc\add.c
+	"student.h"
+
+1734830938 e:\iti_9\c\projectc\student.h
+	<stdio.h>
+	<stdlib.h>
+
+1734830455 source:e:\iti_9\c\projectc\calcaverage.c
+	"student.h"
+
+1734830453 source:e:\iti_9\c\projectc\calcgrade.c
+	"student.h"
+
+1734974069 source:e:\iti_9\c\projectc\displayallaverage.c
+	<conio.h>
+	"student.h"
+
+1734974316 source:e:\iti_9\c\projectc\displayallstudent.c
+	<conio.h>
+	"student.h"
+
+1734975129 source:e:\iti_9\c\projectc\displayallstudentfailed.c
+	<conio.h>
+	"student.h"
+
+1734974900 source:e:\iti_9\c\projectc\displayallstudentpassed.c
+	<conio.h>
+	"student.h"
+
+1734833387 source:e:\iti_9\c\projectc\displayhighestaverage.c
+	<conio.h>
+	"student.h"
+
+1734830455 source:e:\iti_9\c\projectc\exist.c
+	"student.h"
+
+1734830455 source:e:\iti_9\c\projectc\find.c
+	"student.h"
+
+1738331566 source:e:\iti_9\c\projectc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"student.h"
+
+1734833149 e:\iti_9\c\projectc\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1734830455 source:e:\iti_9\c\projectc\resizearray.c
+	"student.h"
+
+1734829351 source:e:\iti_9\c\projectc\update.c
+	"student.h"
+
